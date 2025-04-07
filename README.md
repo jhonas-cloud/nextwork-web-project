@@ -12,4 +12,5 @@ In Day 2, We Did :
 * Use token as temporary password to push it on our Git repo
 * Add new commit
 * And lastly, create a README.md that showcasing our project documentation.
-On day 3, I used this repository to make build a Web application using Maven and CodeArtifact.
+<br> On day 3, I used this repository to make build a Web application using Maven and CodeArtifact.
+<br> On day 4, I used this repository to build a Web application using CodeBuild and CodeArtifact. Now it uses CI/CD Pipeline.
